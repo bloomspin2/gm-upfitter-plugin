@@ -1,0 +1,38 @@
+MAKE,MODEL,TYPE
+Acadia,SUV,N/A
+BOLT/BOLT EUV,EV,N/A
+Colorado/Canyon,"Extended Cab
+Crew Cab","N/A
+N/A"
+Encore/Trax,SUV,N/A
+Equinox/Terrain,SUV,N/A
+Escalade/Escalade ESV,SUV,N/A
+Express/ Savana,"Cargo
+Passenger
+Cut-Away","2500,3500
+2500,3500
+3500,4500"
+Low Cab Forward (LCF),3500 - 7500,N/A
+Silverado/Sierra ,"1500
+2500
+3500
+4500 - 6500","REGULAR CAB,EXT/DBL CAB,CREW CAB
+REGULAR CAB,EXT/DBL CAB,CREW CAB
+REGULAR CAB,EXT/DBL CAB,CREW CAB
+REGULAR CAB,EXT/DBL CAB"
+Tahoe/Suburban ,SUV,N/A
+Traverse,SUV,N/A
+XT4,SUV,N/A
+XT5,SUV,N/A
+Yukon/Yukon XL ,SUV,N/A
+Police/Special Vehicles,"Express
+Malibu - 1FL
+Silverado
+Suburban - 1FL
+Tahoe
+Traverse 1FL/2FL","Cargo  - Transport,Passenger - Transport
+Sedan
+Crew - SSV/5W4
+SUV
+PPV/SSV (9C1/5W4)
+SUV"
